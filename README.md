@@ -1,6 +1,7 @@
 # Lab
 - Autoscaling com Load Balancing em instâncias EC2 na AWS
 - Provisionamento de infraestrutura com Terraform
+- Teste: Stress Test (código em Python) dentro de instâncias EC2
 - Serviços:
   - Internet Gateway
   - Route Table
