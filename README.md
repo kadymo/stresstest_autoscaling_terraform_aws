@@ -5,7 +5,7 @@
 - Serviços:
   - Internet Gateway
   - Route Table
-  - Clssic Load Balancer
+  - Classic Load Balancer
   - Auto Scaling Group
   - Public Subnet
   - EC2
