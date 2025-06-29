@@ -5,9 +5,9 @@
 - Serviços:
   - Internet Gateway
   - Route Table
-  - Classic Load Balancer
+  - Elastic Load Balancer
   - Auto Scaling Group
   - Public Subnet
   - EC2
 ## Arquitetura
-![Diagrama sem nome drawio](https://github.com/user-attachments/assets/64b18d6d-d6ac-4891-912b-651f5e860e81)
+![image](https://github.com/user-attachments/assets/1183b420-b5ff-4810-9332-ca383d835d60)
